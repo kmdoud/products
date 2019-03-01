@@ -1,0 +1,37 @@
+
+table
+{
+    border: 5px dotted black;
+}
+.tablehead
+{
+    border: 3px dashed black;
+}
+.tabledata
+{
+    border: 1px groove chartreuse;
+}
+.bk1
+{
+    background-color: aquamarine
+}
+.bk2
+{
+    background-color: blueviolet;
+}
+.bk3
+{
+    background-color: cadetblue;
+}
+.bk4
+{
+    background-color: orangered;
+}
+.bk5
+{
+    background-color:saddlebrown;
+}
+.bk6
+{
+    background-color: brown;
+}
